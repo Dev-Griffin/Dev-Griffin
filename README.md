@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Griffin
 - 👀 I’m interested in sales(Staffing Consultant)
 - 🌱 I’m currently learning Sales Techniques
-- 💞️ I’m looking to collaborate on Requirements 
+- 💞️ I’m looking to collaborate on Tech Requirements 
 - 📫 How to reach me Full Stack Developers
 
 <!---
